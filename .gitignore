@@ -1,0 +1,20 @@
+# Environment variables
+.env
+!.env.example
+
+# Storage directory (SQLite)
+storage/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# macOS system files
+.DS_Store
+
+# Test files
+*.test
+test_*.py
